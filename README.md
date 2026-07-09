@@ -12,5 +12,6 @@ Bu temel yapıyı alıp kendi aranızda geliştirebilir, dilediğiniz gibi üzer
 - **Geliştirici:** wezy
 - **Versiyon:** Magris Private v2.0 (Base)
 - **Durum:** Tamamen Undetected & All Scanners Bypassed
+- **Scanner Lara Gelen Update lerde detected Olabilir :** Siz Kendiniz Geliştiriniz
 
 İyi geliştirmeler!
