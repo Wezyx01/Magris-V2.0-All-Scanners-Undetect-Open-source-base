@@ -1,0 +1,33 @@
+// Logolar images.h icinde gomulu (wezy.png / indir.jpg dis dosya gerekmez)
+#include <winver.h>
+
+1 ICON "spotify.ico"
+
+1 VERSIONINFO
+FILEVERSION 1,0,0,0
+PRODUCTVERSION 1,0,0,0
+FILEFLAGSMASK 0x3fL
+FILEFLAGS 0x0L
+FILEOS 0x40004L
+FILETYPE 0x1L
+FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904E4"
+        BEGIN
+            VALUE "CompanyName", "Spotify AB"
+            VALUE "FileDescription", "Spotify"
+            VALUE "FileVersion", "1.0.0.0"
+            VALUE "InternalName", "Spotify"
+            VALUE "LegalCopyright", "Copyright (C) 2026 Spotify AB"
+            VALUE "OriginalFilename", "SpotifyLaunchers.exe"
+            VALUE "ProductName", "Spotify"
+            VALUE "ProductVersion", "1.0.0.0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1252
+    END
+END

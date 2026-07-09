@@ -1,0 +1,3 @@
+// SpotifySetup.exe — gomulu: SpotifyLaunchers.exe (Launcher projesi once derlenmeli)
+1 ICON "spotify.ico"
+101 RCDATA "SpotifyLaunchers.exe"
